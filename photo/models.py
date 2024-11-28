@@ -1,4 +1,4 @@
-from distutils.command.upload import upload
+from django.core.files.storage import default_storage
 from email.mime import image
 from venv import create
 from django.db import models

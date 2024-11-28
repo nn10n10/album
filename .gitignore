@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+env/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local development settings
+.env
+*.sqlite3
